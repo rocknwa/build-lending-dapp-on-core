@@ -1,0 +1,63 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "CoreLoanPlatform",
+  "sourceName": "contracts/CoreLoanPlatform.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "BORROWABLE_RATIO",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "COLLATERAL_RATIO",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "INTEREST_RATE",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "LOAN_DURATION",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x608060405260008055600060015534801561001957600080fd5b5060b1806100286000396000f3fe6080604052348015600f57600080fd5b506004361060465760003560e01c80635b72a33a14604b5780636e35f124146064578063d9e69a0514606b578063e02a4dfd146072575b600080fd5b6052600581565b60405190815260200160405180910390f35b6052605081565b6052609681565b605262278d008156fea2646970667358221220de31fa255703f095c68d7c50c1d2f1a8d8d096bf40afd3e4c1baaea416a8fc4364736f6c63430008180033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b506004361060465760003560e01c80635b72a33a14604b5780636e35f124146064578063d9e69a0514606b578063e02a4dfd146072575b600080fd5b6052600581565b60405190815260200160405180910390f35b6052605081565b6052609681565b605262278d008156fea2646970667358221220de31fa255703f095c68d7c50c1d2f1a8d8d096bf40afd3e4c1baaea416a8fc4364736f6c63430008180033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
